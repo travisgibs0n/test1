@@ -1,0 +1,7 @@
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello GitHub!");
+		System.out.println("I will hopefully be learning how to code in Java and how to use GitHub with these projects");
+	}
+}
